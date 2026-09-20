@@ -2,7 +2,7 @@
 name: Spec Sheet Template
 about: Template for spec sheets
 title: Project Name
-labels: 'type: Spec Sheet'
+labels: 'type: Spec Sheet, type: User Story'
 assignees: ''
 
 ---
@@ -11,16 +11,16 @@ assignees: ''
 Project Name: [Insert Project Name]  
 User Stories:
 
-User Story Title (insert link when available)
+1 - User Story Title (insert link when available)
 
  - Objective 1
  - Objective 2
  - ...
 
-User Story Title (insert link when available)
+2 - User Story Title (insert link when available)
 - …
 
-User Story Title (insert link when available)
+3 - User Story Title (insert link when available)
 - ...
 
 ### Why
