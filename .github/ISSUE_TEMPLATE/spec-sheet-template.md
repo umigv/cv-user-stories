@@ -1,8 +1,8 @@
 ---
 name: Spec Sheet Template
 about: Template for spec sheets
-title: Project Name
-labels: 'type: Spec Sheet, type: User Story'
+title: ''
+labels: 'type: Spec Sheet'
 assignees: ''
 
 ---
