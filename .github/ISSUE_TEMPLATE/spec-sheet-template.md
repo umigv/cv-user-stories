@@ -2,7 +2,7 @@
 name: Spec Sheet Template
 about: Template for spec sheets
 title: ''
-labels: 'type: Spec Sheet'
+labels: 'type: Spec Sheet, type: User Story'
 assignees: ''
 
 ---
